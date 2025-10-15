@@ -1,7 +1,7 @@
 # Sistema de Recomendación de Películas con Python
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
-![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 Este proyecto fue desarrollado en equipo como parte del bootcamp Xperience, donde lideré un equipo multicultural (Argentina, Perú, México) durante un mes para su realización.
