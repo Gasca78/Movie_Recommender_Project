@@ -16,8 +16,7 @@ Este proyecto fue desarrollado en equipo como parte del bootcamp Xperience, dond
 3.  [Dataset](#-dataset)
 4.  [Metodología y Modelos Implementados](#-metodología-y-modelos-implementados)
 5.  [Tecnologías Utilizadas](#-tecnologías-utilizadas)
-6.  [Cómo Ejecutar el Proyecto](#-cómo-ejecutar-el-proyecto)
-7.  [Conclusiones](#-conclusiones)
+6.  [Conclusiones](#-conclusiones)
 
 ---
 
@@ -67,24 +66,6 @@ Se implementaron tres estrategias de recomendación, desde la más simple a la m
 * **Visualización:** Matplotlib, Seaborn
 * **Entorno:** Google Colab / Jupyter Notebook
 * **APIs:** Se utilizó la API de TMDB para enriquecer los datos de las películas (pósters, descripciones).
-
----
-
-### 🚀 Cómo Ejecutar el Proyecto
-
-1.  Clonar el repositorio:
-    ```bash
-    git clone [https://github.com/Gasca78/Movie_Recommender_Project.git](https://github.com/Gasca78/Movie_Recommender_Project.git)
-    ```
-2.  Navegar al directorio del proyecto:
-    ```bash
-    cd Movie_Recommender_Project
-    ```
-3.  Instalar las dependencias (se recomienda crear un entorno virtual):
-    ```bash
-    pip install -r requirements.txt
-    ```
-4.  Abrir y ejecutar el notebook `nombre_del_notebook.ipynb` en Jupyter.
 
 ---
 
